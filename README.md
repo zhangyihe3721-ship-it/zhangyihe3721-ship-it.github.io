@@ -9,4 +9,5 @@ I'm interested in artificial intelligence and information retrieval, especially 
 
 ## Contact
 
-Email: <填写你注册 OpenReview 用的学校邮箱>
+Email: 2024312307@email.cufe.edu.cn
+
